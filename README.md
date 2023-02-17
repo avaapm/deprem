@@ -9,7 +9,7 @@ The video demonstration of our tool is given at **demo_video.zip**.
 The annotated dataset is given at **dataset.tsv**. We annotate **1,000 tweets in Turkish** if tweets call for help (i.e. request rescue, supply, or donation), and their entity tags (person, city, address, status).
 | Column Name  | Description |
 | ------------- | ------------- |
-| label | Human annotation if tweet calls for help (i.e. request rescue, supply, or donation) |
+| label | Human annotation if tweet calls for help (binary classification) |
 | entities | Human annotation of entity tags (i.e. person, city, address, and status). The format is [START_INDEX]:[END_INDEX]%[TAG_TYPE]. |
 | tweet_id | Tweet ID from Twitter API. |
 | text | Tweet text. |
