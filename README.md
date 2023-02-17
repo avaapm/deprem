@@ -21,8 +21,7 @@ Distibution of tweets in the dataset is as follows:
 |----------|----------|----------|----------|----------|----------|
 | Call for Help | 418 | 516 | 504 | 364 | 392 |
 | Not Call for Help | 582 | - | - | - | - |
-||
-| Total | *1,000 tweets* <td colspan=4>*1,776 tags*
+| Total | *1,000 tweets* <td colspan=4 align="center">*1,776 tags* |
 
 ## Keywords
 The keyword lists that we use to collect tweets are given in **general_keywords.txt** and **help_keywords.txt**.
