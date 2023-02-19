@@ -1,0 +1,13 @@
+keywords
+acil yardım
+afad OR afadbaskanlik OR ahbap OR depremdairesi
+apt OR apartmanı OR apartmani OR blok OR bina OR bulvar OR bulvarı OR caddesi OR cad OR cad. OR çöktü OR çökmüş OR enkaz OR enkazdayım OR enkazaltındayım OR kat OR mahallesi OR mahalle OR mah. OR mah OR sitesi OR sokak OR sokağı OR sokagi OR yıkıldı
+(enkaz) (altında OR altinda OR altındalar OR altindalar OR altındayım OR altındayim)
+göçük OR gocuk OR göçükte 
+(göçük OR gocuk) (altında OR altinda OR altındalar OR altindalar OR altındayım OR altındayim)
+haber (alınamıyor OR alamıyoruz OR alinamiyor OR alamiyoruz OR alamadık)
+karşısı OR yanı OR karsisi OR yani
+(kurtarılmayı OR kurtarilmayi OR kurtarılmayi OR kurtarilmayı) (bekliyor OR bekliyorlar)
+(lutfen OR lütfen) (yayalım OR yayalim OR yayılsın)
+yardım (edelim OR bekliyor OR gönderin OR gonderin OR bekliyo OR bekliyolar)
+ulaşamıyoruz OR ulasamiyoruz OR ulasamıyoruz OR ulaşılmıyor
