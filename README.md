@@ -5,7 +5,10 @@ This repository contains our efforts to detect tweets calling for help, specific
 ## Demonstration (demo_video.zip)
 The video demonstration of our tool is given at **demo_video.zip**.
 
-## Dataset (dataset.tsv)
+## Demonstration Data (1k_tweet_objects.json)
+The tweet objects (1,000) that are used in the demonstration video.
+
+## Training Dataset (dataset.tsv)
 The annotated dataset is given at **dataset.tsv**. We annotate **1,000 tweets in Turkish** if tweets call for help (i.e. request rescue, supply, or donation), and their entity tags (person, city, address, status).
 | Column Name  | Description |
 | ------------- | ------------- |
