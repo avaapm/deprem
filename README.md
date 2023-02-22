@@ -3,10 +3,10 @@
 This repository contains our efforts to detect tweets calling for help, specifically after the 2023 Turkiye-Syria Earthquake. 
 
 ## Demonstration (demo_video.zip)
-The video demonstration of our tool is given at **demo_video.zip**.
+The video demonstration of our tool is given at **demo_video.zip**. We remove any information that may reveal the personal identity in the video to ensure privacy.
 
-## Demonstration Data (1k_tweet_objects.json)
-The tweet objects (1,000) that are used in the demonstration video.
+## Demonstration Data (demo_tweet_ids.txt)
+The tweet IDs (1,000) that are used in the demonstration video.
 
 ## Training Dataset (dataset.tsv)
 The annotated dataset is given at **dataset.tsv**. We annotate **1,000 tweets in Turkish** if tweets call for help (i.e. request rescue, supply, or donation), and their entity tags (person, city, address, status).
@@ -15,8 +15,6 @@ The annotated dataset is given at **dataset.tsv**. We annotate **1,000 tweets in
 | label | Human annotation if tweet calls for help (binary classification) |
 | entities | Human annotation of entity tags (i.e. person, city, address, and status). The format is [START_INDEX]:[END_INDEX]%[TAG_TYPE]. |
 | tweet_id | Tweet ID from Twitter API. |
-| text | Tweet text. |
-| quote | If tweet quotes another tweet, we also provide the quoted tweet's text. |
 
 Distibution of tweets in the dataset is as follows:
 
