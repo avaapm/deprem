@@ -27,6 +27,9 @@ Distibution of tweets in the dataset is as follows:
 ## Keywords
 The keyword lists that we use to collect tweets are given in **general_keywords.txt** and **help_keywords.txt**.
 
+## Model Files
+The deployed models are published at https://huggingface.co/ctoraman
+
 ## Citation
 If you make use of this dataset, please cite following paper.
 
