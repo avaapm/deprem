@@ -34,13 +34,14 @@ The deployed models are published at https://huggingface.co/ctoraman
 If you make use of this dataset, please cite following paper.
 
 ```bibtex
-@InProceedings{toraman2023earthquake,
-  author    = {Toraman, Cagri and Kucukkaya, Izzet Emre and Ozcelik, Oguzhan and Sahin, Umitcan},
-  title     = {Tweets Under the Rubble: Detection of Messages Calling for Help in Earthquake Disaster},
-  year    = {2023},
-  eprint    = {xxxx.xxxxx},
-  archivePrefix    = {arXiv},
-  primaryClass    = {cs.SI}
+@misc{toraman2023earthquake,
+  doi = {10.48550/ARXIV.2302.13403},
+  url = {https://arxiv.org/abs/2302.13403},
+  author = {Toraman, Cagri and Kucukkaya, Izzet Emre and Ozcelik, Oguzhan and Sahin, Umitcan},
+  keywords = {Social and Information Networks (cs.SI), Computation and Language (cs.CL), Information Retrieval (cs.IR), FOS: Computer and information sciences, FOS: Computer and information sciences},
+  title = {Tweets Under the Rubble: Detection of Messages Calling for Help in Earthquake Disaster},
+  publisher = {arXiv},
+  year = {2023},
+  copyright = {Creative Commons Attribution Non Commercial Share Alike 4.0 International}
 }
-
 ```
